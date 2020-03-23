@@ -1,0 +1,8 @@
+startDate=20190101
+endDate=20191230
+IPAddress=192......
+dbName=SB_IMPORT_TEST
+username=test
+password=1234567
+geoAPIKEY=<geo api key>
+file4D=icd10cm-codes-2019.txt
